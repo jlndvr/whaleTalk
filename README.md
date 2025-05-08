@@ -1,0 +1,2 @@
+# whaleTalk
+Learn C++
